@@ -1,0 +1,98 @@
+@media (max-width: 576px){
+  .line p{
+    font-size: 10px;
+    padding-top: 10px;
+  }
+  .rectangle {
+    height: 20px;
+    width: 60px;
+  }
+  .banner{
+    background-image: url("./photos/banner.png");
+    height: 200px;
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+  .small-list ul {
+    padding-right: 20px;
+    font-size: 8px;
+  }
+  .bnr-container p {
+    font-size: 10px;
+}
+.bnr-container h2 {
+  font-size: 20px;
+}
+.btn1{
+  font-size: 8px;
+  padding: 5px 10px 4px 10px;
+}
+.btn2{
+  font-size: 8px;
+  padding: 5px 10px 4px 10px;
+}
+
+.form-container{
+  height: 280px;
+  width: 80%;
+  margin-top: 0px;
+  text-align: center;
+}
+.img-line img {
+  padding: 10px 0px;
+}
+
+.details{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.two-text {
+  text-align: center;
+}
+.details-pic img {
+  height: 100%;
+  width: 100%;
+}
+.form input{
+  text-align: center;
+}
+
+}
+
+
+
+@media (max-width: 768px){
+  .navbar {
+    padding: 0px;
+}
+  .details-pic img {
+    height: 380px;
+  }
+  .center{
+    margin: auto;
+  }
+  .card-title{
+    text-align: center;
+  }
+  .card-text{
+    text-align: center;
+  }
+  .img-box1{
+    margin: auto;
+   
+  }
+  .img-box2{
+    margin: auto;
+  }
+  .card{
+    padding-top: 10px;
+  }
+
+}
+
+
